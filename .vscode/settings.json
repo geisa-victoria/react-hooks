@@ -1,0 +1,14 @@
+{
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+        "attr_quotes": "single"
+    }
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*.js": "javascript",
+    "**/components/**/*.js": "javascriptreact",
+    "**/containers/**/*.js": "javascriptreact"
+  }
+}
